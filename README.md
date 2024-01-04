@@ -1,6 +1,6 @@
 # SEG.A-Challenge-MICCAI-2023--GPU-Version
 
-This project has modified the repository by Marek Wodzinski [Link](https://github.com/MWod/SEGA_MW_2023.git). 
+This project has modified the repository Marek Wodzinski [Link](https://github.com/MWod/SEGA_MW_2023.git). 
 
 The original network was trained using HPC infrastructure (PLGRID). To reproduce the network on personal GPUs the following modifications are required:
 
