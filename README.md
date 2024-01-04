@@ -1,12 +1,12 @@
 # SEG.A-Challenge-MICCAI-2023--GPU-Version
 
-This project has modified the repository by Marek Wodzinski [Link](https://github.com/MWod/SEGA_MW_2023.git). Place it in datasets/RAW
+This project has modified the repository by Marek Wodzinski [Link](https://github.com/MWod/SEGA_MW_2023.git). 
 
 The original network was trained using HPC infrastructure (PLGRID). To reproduce the network on personal GPUs the following modifications are required:
 
 # Main Contributions for Reproducibility
 
-•	To Download the SEG.A dataset [Link](https://multicenteraorta.grand-challenge.org/data/)
+•	To Download the SEG.A dataset [Link](https://multicenteraorta.grand-challenge.org/data/). Place it in datasets/RAW.
 
 
 •	Update the paths in both hpc_paths.py and paths.py files.
