@@ -4,7 +4,7 @@ This project has modified the repository by Marek Wodzinski [Link](https://githu
 
 The original network was trained using HPC infrastructure (PLGRID). To reproduce the network on personal GPUs the following modifications are required:
 
-# Main Contributions of Reproducibility
+# Main Contributions for Reproducibility
 
 •	To Download the SEG.A dataset [Link](https://multicenteraorta.grand-challenge.org/data/)
 
